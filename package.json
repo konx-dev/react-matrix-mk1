@@ -2,8 +2,12 @@
   "name": "@konx-dev/react-matrix-mk1",
   "private": true,
   "version": "0.0.0",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/konx-dev"
+  },
   "type": "module",
   "scripts": {
+    "build": "tsc && vite build",
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build"
   },
