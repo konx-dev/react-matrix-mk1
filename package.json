@@ -1,11 +1,12 @@
 {
   "name": "@konx-dev/react-matrix-mk1",
-  "private": true,
-  "version": "0.0.0",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/konx-dev"
   },
-  "type": "module",
+  "version": "0.0.0",
+  "author": "konx.dev",
+  "license": "ISC",
+  "description": "Experimental library of common UI elements and components built with React, named Matrix after John Matrix from the 1985 film Commando.",
   "scripts": {
     "build": "tsc && vite build",
     "storybook": "storybook dev -p 6006",
