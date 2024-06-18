@@ -3,7 +3,7 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/konx-dev"
   },
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "konx.dev",
   "license": "ISC",
   "description": "Experimental library of common UI elements and components built with React, named Matrix after John Matrix from the 1985 film Commando.",
